@@ -16,14 +16,12 @@ These tutorials provide steps to:
 
 ## Installation
 
-Required packages to run tutorials:
-
-Python version 3.8
+Required packages and python version to run tutorials:
 
 |            |            |                |
 | ---------- | -----------| ---------------|
-|   csv      |  gdal      |  glob          | 
-|   h5py     |  imagio    |  numpy         | 
+| python 3.8 |  gdal      |  glob          | 
+|   h5py     |  imageio   |  numpy         | 
 |   os       |  osgeo     |  pandas        | 
 |   plotly   |  pylab     |  rasterio      | 
 |   rioaxxary|  shutil    |  wget          | 
