@@ -21,10 +21,10 @@ Required packages and python version to run tutorials:
 |            |            |                |
 | ---------- | -----------| ---------------|
 | python 3.8 |  gdal      |  glob          | 
-|   h5py     |  imageio   |  numpy         | 
-|   os       |  osgeo     |  pandas        | 
-|   plotly   |  pylab     |  rasterio      | 
-|   rioaxxary|  shutil    |  wget          | 
+|   h5py     |  imageio   |  matplotlib    | 
+|   nump     |  os        |  osgeo         | 
+|   pandas   |  plotly    |  rasterio      | 
+|   rioxarray|  shutil    |  wget          | 
 
 
 ## Usage
