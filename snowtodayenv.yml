@@ -1,0 +1,20 @@
+name: snowtodayenv
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - gdal
+  - glob
+  - h5py
+  - imageio
+  - numpy
+  - osgeo
+  - pandas
+  - plotly
+  - pylab
+  - rasterio
+  - rioaxarray
+  - shutil
+  - wget
