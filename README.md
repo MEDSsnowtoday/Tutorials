@@ -38,4 +38,4 @@ Bair, E. H., Stillinger, T., & Dozier, J. (2021). Snow Property Inversion From R
 Stillinger, T., Bair, N., Colee, M., Davis, B., Dozier, J. 2022. Remotely-sensed products. Snow research at UC Santa Barbara and The Cold Regions Research and Engineering Laboratory (CRREL) and University of California Santa Barbara (UCSB) Energy Site. Last accessed: 2022/05/22. https://snow.ucsb.edu/index.php/remotely-sensed-products/
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDSsnowtoday/Tutorials/HEAD)
+[![Binder][(https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDSsnowtoday/Tutorials/HEAD)](https://mybinder.org/v2/gh/MEDSsnowtoday/Tutorials/HEAD)
