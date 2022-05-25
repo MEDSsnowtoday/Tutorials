@@ -1,5 +1,4 @@
-name: snowtodayenv
-
+name: environment
 channels:
   - conda-forge
 dependencies:
