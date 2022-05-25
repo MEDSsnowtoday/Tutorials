@@ -2,8 +2,6 @@ name: snowtodayenv
 
 channels:
   - conda-forge
-  - nodefaults
-
 dependencies:
   - gdal
   - glob
