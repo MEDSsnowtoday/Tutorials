@@ -1,7 +1,6 @@
 name: environment
 channels:
   - conda-forge
-  - pip
 dependencies:
   - gdal
   - glob
