@@ -36,3 +36,6 @@ Python tutorials were created to increase the usability of the UCSB Earth Resear
 Bair, E. H., Stillinger, T., & Dozier, J. (2021). Snow Property Inversion From Remote Sensing (SPIReS): A Generalized Multispectral Unmixing Approach With Examples From MODIS and Landsat 8 OLI. IEEE Transactions on Geoscience and Remote Sensing, 59(9), 7270–7284. https://doi.org/10.1109/TGRS.2020.3040328
 
 Stillinger, T., Bair, N., Colee, M., Davis, B., Dozier, J. 2022. Remotely-sensed products. Snow research at UC Santa Barbara and The Cold Regions Research and Engineering Laboratory (CRREL) and University of California Santa Barbara (UCSB) Energy Site. Last accessed: 2022/05/22. https://snow.ucsb.edu/index.php/remotely-sensed-products/
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDSsnowtoday/Tutorials/HEAD)
