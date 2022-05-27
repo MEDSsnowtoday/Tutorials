@@ -10,7 +10,6 @@ dependencies:
 - rioxarray
 - rasterio
 - leafmap
-- wget>=3.2
 - matplotlib
 - h5py
 - imageio
