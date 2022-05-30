@@ -23,7 +23,7 @@ Required packages and python version to run tutorials:
 | ---------- | -----------| ---------------|
 | python 3.8 |  gdal      |  glob          | 
 |   h5py     |  imageio   |  matplotlib    | 
-|   nump     |  os        |  osgeo         | 
+|   numpy     |  os        |  osgeo         | 
 |   pandas   |  plotly    |  rasterio      | 
 |   rioxarray|  shutil    |  wget          | 
 
