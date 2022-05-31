@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDSsnowtoday/Tutorials/HEAD)
 # Tutorials for Processing, Analysing, and Visualizing Snow Data
 
 ### Authors: Ryan Munnikhuis, Marie Rivers, Julia Parish
