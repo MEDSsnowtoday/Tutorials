@@ -1,0 +1,1 @@
+Output folder for interactive visualizations and example visualization HTML widgets.

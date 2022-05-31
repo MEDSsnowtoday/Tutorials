@@ -1,0 +1,1 @@
+Output folder for albedo dataset downloads.
