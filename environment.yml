@@ -5,7 +5,7 @@ channels:
 dependencies:
 - python
 - pandas
-- gdal>=2.4
+- gdal
 - numpy
 - rioxarray
 - rasterio
