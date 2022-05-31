@@ -3,14 +3,14 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-- python>=3.6
+- python
 - pandas
 - gdal>=2.4
 - numpy
 - rioxarray
 - rasterio
 - leafmap
-- wget>=3.2
+- wget
 - matplotlib
 - h5py
 - imageio
