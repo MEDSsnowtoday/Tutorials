@@ -3,15 +3,15 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-- python
-- pandas
-- gdal
-- numpy
-- rioxarray
-- rasterio
-- leafmap
-- wget
-- matplotlib
-- h5py
-- imageio
-- plotly
+  - python
+  - pandas
+  - gdal
+  - numpy
+  - rioxarray
+  - rasterio
+  - leafmap
+  - wget
+  - matplotlib
+  - h5py
+  - imageio
+  - plotly
