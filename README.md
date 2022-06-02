@@ -1,6 +1,6 @@
-# Tutorials for Processing, Analysing, and Visualizing Snow Data
+# Tutorials for Processing, Analyzing, and Visualizing Snow Data
 
-### Authors: Ryan Munnikhuis, Marie Rivers, Julia Parish
+### Authors: Ryan Munnikhuis, Julia Parish, Marie Rivers
 
 ## Motivation
 
@@ -21,10 +21,11 @@ Required packages and python version to run tutorials:
 |            |            |                |
 | ---------- | -----------| ---------------|
 | python 3.8 |  gdal      |  glob          | 
-|   h5py     |  imageio   |  matplotlib    | 
-|   numpy     |  os        |  osgeo         | 
-|   pandas   |  plotly    |  rasterio      | 
-|   rioxarray|  shutil    |  wget          | 
+| h5py       |  imageio   |  leafmap       | 
+| matplotlib |  numpy     |  pandas        | 
+| plotly     |  pylab     |  rasterio      | 
+| rioxarray  |  wget      |                | 
+|            |            |                |
 
 
 ## Usage
