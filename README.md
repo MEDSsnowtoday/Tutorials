@@ -23,8 +23,8 @@ Required packages and python version to run tutorials:
 | python 3.8 |  gdal      |  glob          | 
 | h5py       |  imageio   |  leafmap       | 
 | matplotlib |  numpy     |  pandas        | 
-| plotly     |  pylab     |  rasterio      | 
-| rioxarray  |  wget      |                | 
+| plotly     |  rasterio  |  rioxarray     | 
+| wget       |            |                |
 |            |            |                |
 
 
