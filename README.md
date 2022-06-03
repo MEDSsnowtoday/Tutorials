@@ -36,13 +36,16 @@ Once the new environment has been created, activate the environment with
 ```console
 conda activate snowtoday
 ```
-Open the Tutorial repository in Jupyter Lab by running 
+
+You will need to install the `gdal` package separately. Please refer to the [Python Package Index (PyPI) documentation](https://pypi.org/project/GDAL/) to facilitate this step of installation. 
+
+Once you have activated the environment and installed `gdal`, open the Tutorial repository in Jupyter Lab by running 
 
 ```console
 jupyter lab
 ```
 
-or open [Visual Studio Code](https://code.visualstudio.com/) and activate the snowtoday environment. 
+or open the [Visual Studio Code](https://code.visualstudio.com/) application and activate the snowtoday environment. 
 
 
 ## Usage
