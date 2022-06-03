@@ -1,0 +1,19 @@
+name: snowtoday
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python
+  - gdal
+  - h5py
+  - leafmap
+  - imageio
+  - matplotlib
+  - numpy
+  - pandas
+  - plotly
+  - rasterio
+  - rioxarray
+  - wget
