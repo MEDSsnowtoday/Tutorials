@@ -24,7 +24,7 @@ Required packages and python version to run tutorials:
 | imageio    |  leafmap   |  matplotlib    |
 | numpy      |  pandas    |  plotly        |
 | rasterio   |  rioxarray |  wget          | 
-|            |            |                |
+
 
 To configure a python environment to run the tutorials, utilize the  `environment.yml` file. In order to build this environment, open a terminal and run 
 
