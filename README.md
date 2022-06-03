@@ -26,6 +26,24 @@ Required packages and python version to run tutorials:
 | rasterio   |  rioxarray |  wget          | 
 |            |            |                |
 
+To configure a python environment to run the tutorials, utilize the  `environment.yml` file. In order to build this environment, open a terminal and run 
+
+```console
+conda env create -f environment.yml
+```
+Once the new environment has been created, activate the environment with 
+
+```console
+conda activate snowtoday
+```
+Open the Tutorial repository in Jupyter Lab by running 
+
+```console
+jupyter lab
+```
+
+or open [Visual Studio Code](https://code.visualstudio.com/) and activate the snowtoday environment. 
+
 
 ## Usage
 
