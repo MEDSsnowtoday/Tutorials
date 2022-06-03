@@ -11,9 +11,11 @@ dependencies:
   - leafmap
   - imageio
   - matplotlib
+  - netCDF4
   - numpy
   - pandas
   - plotly
   - rasterio
   - rioxarray
   - wget
+  - xarray
