@@ -26,28 +26,6 @@ Required packages and python version to run tutorials:
 | rasterio   |  rioxarray |  wget          | 
 
 
-To configure a python environment to run the tutorials, utilize the  `environment.yml` file. In order to build this environment, open a terminal and run 
-
-```console
-conda env create -f environment.yml
-```
-Once the new environment has been created, activate the environment with 
-
-```console
-conda activate snowtoday
-```
-
-You will need to install the `gdal` package separately. Please refer to the [Python Package Index (PyPI) documentation](https://pypi.org/project/GDAL/) to facilitate this step of installation. 
-
-Once you have activated the environment and installed `gdal`, open the Tutorial repository in Jupyter Lab by running 
-
-```console
-jupyter lab
-```
-
-or open the [Visual Studio Code](https://code.visualstudio.com/) application and activate the snowtoday environment. 
-
-
 ## Usage
 
 Python tutorials were created to increase the usability of the UCSB Earth Research Insitutes’s (ERI) Snow Property Inversion from Remote Sensing (SPIReS) model HDF5 files. These files contain snow cover fraction and snow albedo data. The three tutorials are intended for an audience with basic Python experience. Previous understanding of multidimensional climate data is not required. The first tutorial focuses on walking users through the steps to downloading and opening HDF5 files and exploring the metadata. The second tutorial provides instructions on how to calculate averages and anomalies, convert the data to GeoTiffs with correct projection information, and to visualize the data on a map. These GeoTiff can be either individual files or raster stacks. The third tutorial focuses on visualizing snow statistical values on charts. While the tutorials only use historic data from 2001 to 2019, the skills gained from the tutorials can be applied to present data.
